@@ -1,5 +1,5 @@
 # OS-Notes
-:computer: Operating System Learning Notes
+<div align="center"> <img src="other/moslogo.png"/> </div>
 
 ### Logo
 Power by [logomakr](https://logomakr.com/).
