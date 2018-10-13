@@ -1,5 +1,8 @@
 # OS-Notes
 :computer: Operating System Learning Notes
+
+### Logo
+Power by [logomakr](https://logomakr.com/).
 ### License
 在对本作品进行演绎时，请署名并以相同方式共享。
 
