@@ -1,5 +1,5 @@
 # OS-Notes
-<div align="center"> <img src="other/moslogo.png"/> </div>
+<div align="center"> <img src="other/moslogo.png" width="150px"/> </div>
 
 ### Logo
 Power by [logomakr](https://logomakr.com/).
