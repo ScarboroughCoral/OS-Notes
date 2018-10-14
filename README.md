@@ -12,7 +12,7 @@
 
 ### :floppy_disk: 硬件部分
 
-- [计算机如何计算]()
+- [计算机如何计算](https://github.com/ScarboroughCoral/OS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97.md)
 - [01如何实现]()
 - [与或非]()
 - [加法如何实现]()
