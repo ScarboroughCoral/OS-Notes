@@ -1,7 +1,21 @@
 # OS-Notes
+
+> 本仓库将告诉您如何从零搭建一台可以面向大众的计算机：从硬件到操作系统。（From Hardware to Operating System）
+
+|                       Ⅰ                        |                    Ⅱ                     |
+| :--------------------------------------------: | :--------------------------------------: |
+| 硬件部分[:floppy_disk:](#floppy_disk-硬件部分) | 操作系统[:computer:](#computer-操作系统) |
+
 <div align="center"> <img src="other/moslogo.png" width="150px"/> </div>
 
+
+
+### :floppy_disk: 硬件部分
+
+
+
 ### Logo
+
 Power by [logomakr](https://logomakr.com/).
 ### License
 在对本作品进行演绎时，请署名并以相同方式共享。
