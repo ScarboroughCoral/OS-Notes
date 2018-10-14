@@ -1,8 +1,6 @@
 # OS-Notes
 
-<blockquote class="blockquote-center">本仓库将告诉您如何从零搭建一台可以面向大众的计算机：从硬件到操作系统。（From Hardware to Operating System）</blockquote>
-
-
+<blockquote class="blockquote-center">本仓库将告诉您如何从零搭建一台可以面向大众的计算机：从硬件到操作系统。（From Hardware to Operating System）</blockquote>                             
 
 |                       Ⅰ                        |                    Ⅱ                     |
 | :--------------------------------------------: | :--------------------------------------: |
