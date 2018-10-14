@@ -8,7 +8,7 @@
 
 <div align="center"> <img src="other/moslogo.png" width="150px"/> </div>
 
-
+ <a href="https://3249977074.gitbook.io/os-notes/"><img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
 
 ### :floppy_disk: 硬件部分
 
