@@ -2,9 +2,9 @@
 
 <blockquote class="blockquote-center">本仓库将告诉您如何从零搭建一台可以面向大众的计算机：从硬件到操作系统。（From Hardware to Operating System）</blockquote>                             
 
-|                       Ⅰ                        |                    Ⅱ                     |
-| :--------------------------------------------: | :--------------------------------------: |
-| 硬件部分[:floppy_disk:](#floppy_disk-硬件部分) | 操作系统[:computer:](#computer-操作系统) |
+|                       Ⅰ                        |                    Ⅱ                     |              Ⅲ              |
+| :--------------------------------------------: | :--------------------------------------: | :-------------------------: |
+| 硬件部分[:floppy_disk:](#floppy_disk-硬件部分) | 操作系统[:computer:](#computer-操作系统) | 汇编语言到高级语言:calling: |
 
 <div align="center"> 
     <img src="other/moslogo.png" width="150px"/>
@@ -42,7 +42,7 @@
 
   原码，反码与现代常用补码
 
-- [指令]()
+- [指令与汇编]()
 
   01代码到助记符的对应关系
 
@@ -64,7 +64,7 @@
 
 ### :computer: 操作系统
 
-
+### :calling:  汇编语言到高级语言
 
 ### Logo
 
