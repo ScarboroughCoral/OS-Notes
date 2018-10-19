@@ -18,7 +18,7 @@
 
 ### :floppy_disk: 硬件部分
 
-- [计算机如何计算](notes/计算机如何计算.md)
+- [计算机如何计算](https://github.com/ScarboroughCoral/OS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97.md)
 
   计算是什么？计算机和计算器有什么不同？计算机能计算哪些东西？
 
