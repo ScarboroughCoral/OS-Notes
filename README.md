@@ -1,10 +1,6 @@
 # OS-Notes
 
-<blockquote class="blockquote-center">本仓库将告诉您如何从零搭建一台可以面向大众的计算机：从硬件到操作系统。（From Hardware to Operating System）</blockquote>                             
-
-|                       Ⅰ                        |                    Ⅱ                     |              Ⅲ              |
-| :--------------------------------------------: | :--------------------------------------: | :-------------------------: |
-| 硬件部分[:floppy_disk:](#floppy_disk-硬件部分) | 操作系统[:computer:](#computer-操作系统) | 汇编语言到高级语言:calling: |
+本仓库将告诉您如何从零搭建一台可以面向大众的计算机：从硬件到操作系统。               
 
 <div align="center"> 
     <img src="other/moslogo.png" width="150px"/>
@@ -16,7 +12,7 @@
 
 
 
-### :floppy_disk: 硬件部分
+### 硬件部分
 
 - [计算机如何计算](notes/计算机如何计算.md)
 
@@ -62,9 +58,11 @@
 
   计算机硬件内数据的传输。外设体现为什么？
 
-### :computer: 操作系统
+### 操作系统
 
-### :calling:  汇编语言到高级语言
+- [虚拟内存](notes/virtual-memory.md)
+
+### 汇编语言到高级语言
 
 ### Logo
 
