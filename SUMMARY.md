@@ -5,4 +5,4 @@ This file used to generate gitbook catalogue.
 * 硬件部分
   * [计算机如何计算](/notes/计算机如何计算.md)
 * 操作系统
-
+  * [虚拟内存](/notes/virtual-memory.md)
