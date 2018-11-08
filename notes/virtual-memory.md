@@ -130,4 +130,5 @@ MIPS提供给每个应用程序32位的地址空间，每个应用程序可以�
 1. David Black-Schaffer.(2014).[Virtual Memory](https://www.youtube.com/watch?v=qcBIvnQt0Bw&index=1&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
 
 #### 引用文献
+1. Aniruddha-Tapas.(2014).[Operating Systems Notes](https://github.com/Aniruddha-Tapas/Operating-Systems-Notes)
 #### 参阅书目
