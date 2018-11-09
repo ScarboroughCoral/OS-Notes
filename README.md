@@ -50,7 +50,7 @@
 
   程序计数器（指令指针）和程序
 
-- [CPU如何工作]()
+- [CPU如何工作](notes/how-does-cpu-work.md)
 
   整体来看CPU如何工作
 
