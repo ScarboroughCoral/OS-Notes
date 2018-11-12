@@ -65,6 +65,7 @@
 ### 操作系统
 
 - [虚拟内存](notes/virtual-memory.md)
+- [CPU缓存](notes/cpu-cache.md)
 
 ### 汇编语言到高级语言
 
