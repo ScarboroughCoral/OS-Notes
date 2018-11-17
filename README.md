@@ -67,6 +67,10 @@
 - [虚拟内存](notes/virtual-memory.md)
 - [CPU缓存](notes/cpu-cache.md)
 
+### 操作系统有关算法及其实现
+
+- [红黑树](notes/red-black-tree.md)
+
 ### 汇编语言到高级语言
 
 ### Logo
