@@ -16,6 +16,38 @@ CPU是`Central Processing Unit`的缩写，CPU相当于是计算机的大脑，�
 
 ![](../pics/cpu-work3.png)
 
+
+
+CPU将被插入到主板（`mother board`）上，主板让计算机中的各个组件可以相互连接。
+
+
+
+![](E:\workspace\github\OS-Notes\pics\cpu-work2.png)
+
+
+
+### RAM
+
+
+
+主板的右边部分是用来插RAM（`random access memory`）的，也就是内存条，里面存储着将被CPU处理的数据。
+
+
+
+#### CPU和RAM的合作
+
+现在我们只看主板的右半部分。
+
+
+
+![](E:\workspace\github\OS-Notes\pics\cpu-work4.png)
+
+
+
+RAM通过地址来访问数据
+
+
+
 ### 参考资料
 
 #### 参考作品
