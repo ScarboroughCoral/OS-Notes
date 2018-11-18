@@ -16,18 +16,18 @@
 
 ### 继电器
 
-![](/pics/zero-one0.png)
+![](../pics/zero-one0.png)
 如果你了解电流的磁效应，那你一定知道左下方的线路通电时将发生什么：铁片会被吸附下来。
-![](/pics/zero-one3.png)
+![](../pics/zero-one3.png)
 
 ### 01与逻辑电路
 首先来看一组图：
 
-![](/pics/zero-one1.png)
+![](../pics/zero-one1.png)
 
 这个图中，使用串联的接线方式，两个开关同时闭合灯泡才会亮，灯泡亮为1，灯泡不亮为0。
 
-![](/pics/zero-one2.png)
+![](../pics/zero-one2.png)
 
 这个图中，使用并联的方式，需要两个开关只闭合一个灯泡就会亮。
 
