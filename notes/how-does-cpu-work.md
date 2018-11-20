@@ -22,7 +22,7 @@ CPU将被插入到主板（`mother board`）上，主板让计算机中的各个
 
 
 
-![](E:\workspace\github\OS-Notes\pics\cpu-work2.png)
+![](..\pics\cpu-work2.png)
 
 
 
@@ -40,13 +40,13 @@ CPU将被插入到主板（`mother board`）上，主板让计算机中的各个
 
 
 
-![](E:\workspace\github\OS-Notes\pics\cpu-work4.png)
+![](..\pics\cpu-work4.png)
 
 
 
 RAM通过地址一个接一个的访问数据，因此被称为随机访问存储器。
 
-![](E:\workspace\github\OS-Notes\pics\cpu-work5.png)
+![](..\pics\cpu-work5.png)
 
 
 
@@ -54,13 +54,13 @@ RAM通过地址一个接一个的访问数据，因此被称为随机访问存�
 
 
 
-![](E:\workspace\github\OS-Notes\pics\cpu-work6.png)
+![](..\pics\cpu-work6.png)
 
 
 
 CPU接受数据进行处理后，就继续发送下一个地址，然后取回数据进行处理，这个过程将不断重复。当CPU需要将数据保存时，就需要给出保存的地址、保存的数据，并且将**set**线通电（置为有效）
 
-![](E:\workspace\github\OS-Notes\pics\cpu-work7.png)
+![](..\pics\cpu-work7.png)
 
 
 
